@@ -1,0 +1,24 @@
+body {
+  background-color:#f7f2e7;
+}
+hr{background-color: #f7f2e7;
+   border-style: dotted none none ;
+   border-color: grey;
+   border-width: 3px;
+   height:0;
+   width:5%;
+}
+h1{
+  color:#66BFBF;
+
+}
+h3{
+  color:gold;
+  font: italic small-caps bold 16px/2 cursive;
+}
+a:hover{
+  background-color: gold;
+}
+img{
+  border-radius:50px;
+}
